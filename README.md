@@ -11,3 +11,8 @@ PS-2 <br/>
 Total problems - 7 <br/>
 No. of Accepted - 6 <br/>
 Tried but not accepted - 1 (later it was told to skip this problem) 
+
+PS-3
+Total Problems = 7 
+Accepted = 5 
+Tried but not accepted = 2 
