@@ -18,7 +18,8 @@ Accepted = 5 <br/>
 Tried but not accepted = 2 
 <br/><br/>
 PS-4<br/>
-
+Total Problems = 9 <br/>
+Accepted = 7 
 <br/><br/>
 PS-5<br/>
 Total Problems = 14 <br/>
